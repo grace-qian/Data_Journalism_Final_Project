@@ -9,7 +9,8 @@
 
 | Name | Title | Why I Want to Interview This Person | Contact |
 | :---:   | :---: | :---: | :---: |
-| Dr. Maria Rodriguez  | Director of Los Angeles Creative Industries Institute | I'm keen to interview Dr. Maria Rodriguez, the Director of the Los Angeles Creative Industries Institute. Her extensive expertise in steering initiatives that foster innovation, diversity, and economic advancement within LA County's creative sector promises a profound understanding of the industry's intricacies and its impact on our region's cultural and economic tapestry. | Email - maria.rodriguez@lacii.org \| Twitter - @DrMariaLA |
+| Dr. Maria Rodriguez  | Director of Los Angeles Creative Industries Institute | I'm keen to interview Dr. Maria Rodriguez, the Director of the Los Angeles Creative Industries Institute. Her extensive expertise in steering initiatives that foster innovation, diversity, and economic advancement within LA County's creative sector promises a profound understanding of the industry's intricacies and its impact on our region's cultural and economic tapestry. | Email - maria.rodriguez@lacii.org Twitter - @DrMariaLA |
+
 
 <h1>Data Analyses:</h1>
 <p>My data is souced from CVSuite, a product of the Western States Arts Federation (WESTAF) and I will be using two datasets from the Los Angeles Arts Datathon. I have 5 questions that I will investigate and answer using data analysis techniques in Google Sheets. </p>
