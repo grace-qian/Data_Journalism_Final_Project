@@ -9,11 +9,11 @@
 <h1>Data Analyses:</h1>
 <p>I have 5 questions that I will investigate and answer using data analysis techniques in Google Sheets. </p>
 <p>
-* 1. Which creative occupation had the largest male to female ratio? Which creative occupation had the largest female to male ratio?
-2. How do the earnings in LA County's creative fields fare against the broader US trends?
-3. Which age bracket in the US has the most creative workers? What is the top creative occupation for this age group?
-4. Which creative occupation has the highest hourly salary and what is it's growth from 2014 to 2015?
-5. What were the top occupations for each age bracket? What was the overall top occupation for each age bracket?  
+<h4>1. Which creative occupation had the largest male to female ratio and which creative occupation had the largest female to male ratio? </h4>
+<h4>2. How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
+<h4>3. Which age bracket in the US has the most creative workers? What is the top creative occupation for this age group?</h4>
+<h4>4. Which creative occupation has the highest hourly salary and what is it's growth from 2014 to 2015?</h4>
+<h4>5. What were the top occupations for each age bracket? What was the overall top occupation for each age bracket?</h4>
 </p>
 
 <p>Markup : 1. A numbered list
