@@ -16,16 +16,16 @@
 <h4>5. What were the top occupations for each age bracket? What was the overall top occupation for each age bracket?</h4>
 </p>
 
-<p>Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered</p> 
 <h2>Data Analysis 1</h2>
+<h5>Which creative occupation had the largest male to female ratio and which creative occupation had the largest female to male ratio? </h5>
 <h2>Data Analysis 2</h2>
+<h5>How do the earnings in LA County's creative fields fare against the broader US trends?</h5>
 <h2>Data Analysis 3</h2>
+<h5>Which age bracket in the US has the most creative workers? What is the top creative occupation for this age group?</h5>
 <h2>Data Analysis 4</h2>
+<h5>Which creative occupation has the highest hourly salary and what is it's growth from 2014 to 2015?</h5>
 <h2>Data Analysis 5</h2>
-<h2>Data Analysis 6</h2>
+<h5>What were the top occupations for each age bracket? What was the overall top occupation for each age bracket?</h5>
 
 
 
