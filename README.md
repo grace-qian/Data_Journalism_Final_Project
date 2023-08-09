@@ -8,7 +8,7 @@
 <h1>Real People I Would Like to Interview:</h1>
 
 | Name | Title | Why I Want to Interview This Person | Contact |
-| :---:   | :---: | :---: | :---: |
+| :---: | :---: | :---| :--- |
 | Dr. Maria Rodriguez  | Director of Los Angeles Creative Industries Institute | I'm keen to interview Dr. Maria Rodriguez, the Director of the Los Angeles Creative Industries Institute. Her extensive expertise in steering initiatives that foster innovation, diversity, and economic advancement within LA County's creative sector promises a profound understanding of the industry's intricacies and its impact on our region's cultural and economic tapestry. | Email - maria.rodriguez@lacii.org Twitter - @DrMariaLA |
 
 
