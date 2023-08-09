@@ -19,7 +19,9 @@
 
 <h2>Data Analysis 1</h2>
 <h4>Which creative occupation had the largest male to female ratio and which creative occupation had the largest female to male ratio? </h4>
-<p>For this first question, I made a pivot table.</p>
+<p>For this first question, I made a pivot table with two calculated fields - one column was for the male to female ratio and another was for the female to male ratio. The pivot table is in the screenshot below.</p>
+<img width="113" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/1bff4462-67f3-4d2f-bb64-d6c7cc5fbe3a">
+
 <h2>Data Analysis 2</h2>
 <h4>How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
 <h2>Data Analysis 3</h2>
