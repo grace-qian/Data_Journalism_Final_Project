@@ -8,6 +8,7 @@
 <h1>Real People I Would Like to Interview:</h1>
 | Name | Title | Why I Want to Interview This Person | Contact |
 | :---:   | :---: | :---: | :---: |
+| Dr. Maria Rodriguez  | Director, Los Angeles Creative Industries Institute | Redesigned Supplier Scorecard in Tableau to display on-time delivery (OTD) percentage and assigned grades to vendors as well as a new tab to rank vendors by commodity code; created report to quantify cost and lead time (LT) impact on supply chain due to ECNs and design modifications | 6/2023 - Present |
 
 <h1>Data Analyses:</h1>
 <p>My data is souced from CVSuite, a product of the Western States Arts Federation (WESTAF) and I will be using two datasets from the Los Angeles Arts Datathon. I have 5 questions that I will investigate and answer using data analysis techniques in Google Sheets. </p>
