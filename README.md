@@ -7,7 +7,7 @@
 <h1>Real People I Would Like to Interview:</h1>
 
 <h1>Data Analyses:</h1>
-<p>I have 5 questions that I will investigate and answer using data analysis techniques in Google Sheets. </p>
+<p>My data is souced from CVSuite, a product of the Western States Arts Federation (WESTAF). I have 5 questions that I will investigate and answer using data analysis techniques in Google Sheets. </p>
 <p>
 <h4>1. Which creative occupation had the largest male to female ratio and which creative occupation had the largest female to male ratio? </h4>
 <h4>2. How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
@@ -18,6 +18,7 @@
 
 <h2>Data Analysis 1</h2>
 <h5>Which creative occupation had the largest male to female ratio and which creative occupation had the largest female to male ratio? </h5>
+<p>For this first question, I made a pivot table.</p>
 <h2>Data Analysis 2</h2>
 <h5>How do the earnings in LA County's creative fields fare against the broader US trends?</h5>
 <h2>Data Analysis 3</h2>
