@@ -21,7 +21,7 @@
 <h4>2. How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
 <h4>3. Which creative occupation had the largest growth from 2014 to 2015 in LA and in ths US?</h4>
 <h4>4. Which creative occupation has the highest hourly salary in LA and in ths US and which had the lowest?</h4>
-<h4>5. What are the top occupations for each age bracket?</h4>
+<h4>5. What are the top occupations for each age bracket in the LA? the US?</h4>
 </p>
 
 <h2>Data Analysis 1</h2>
@@ -44,7 +44,10 @@
 
 
 <h2>Data Analysis 5</h2>
-<h4>What are the top occupations for each age bracket?</h4>
+<h4>What are the top occupations for each age bracket in LA? the US?</h4>
+<p>
+  To find the top 5 occupations for each age bracket, I used 
+</p>
 
 
 
