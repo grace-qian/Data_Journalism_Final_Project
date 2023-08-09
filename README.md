@@ -16,10 +16,10 @@
 5. What were the top occupations for each age bracket? What was the overall top occupation for each age bracket?  
 </p>
 
- Markup : 1. A numbered list
+<p>Markup : 1. A numbered list
               1. A nested numbered list
               2. Which is numbered
-          2. Which is numbered
+          2. Which is numbered</p> 
 <h2>Data Analysis 1</h2>
 <h2>Data Analysis 2</h2>
 <h2>Data Analysis 3</h2>
