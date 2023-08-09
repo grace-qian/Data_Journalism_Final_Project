@@ -6,6 +6,10 @@
 <h4>For my data visualization, I used Datawrapper to create a bar chart comparing the national vs LA...</h4>
 
 <h1>Real People I Would Like to Interview:</h1>
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 <h1>Data Analyses:</h1>
 <p>My data is souced from CVSuite, a product of the Western States Arts Federation (WESTAF) and I will be using two datasets from the Los Angeles Arts Datathon. I have 5 questions that I will investigate and answer using data analysis techniques in Google Sheets. </p>
