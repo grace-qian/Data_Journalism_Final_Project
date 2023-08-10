@@ -2,8 +2,11 @@
 ## by Grace Qian
 <h1>Story Pitch:</h1>
 <p>Creativity knows no boundaries, and in the bustling metropolis of Los Angeles County, a diverse tapestry of creative occupations weaves together to form a vibrant economy. For my final journalism project, I aim to delve into the realm of creative occupations in LA County, utilizing robust datasets sourced from the "Finding Datasets" repository under "Arts and Culture." Are certain creative fields more appealing to specific age groups? How diverse and inclusive is the creative industry in LA County? How does LA County's creative economy compare to national trends? Beyond the data points, this investigation takes us deep into the employment dynamics of LA's creative industries, dissecting the numbers to uncover patterns, trends, and untold stories.</p>
+
 <h1>Data Visualization:</h1>
-<h4>For my data visualization, I used Datawrapper to create a bar chart comparing the national vs LA...</h4>
+<p>For my data visualization, I used Datawrapper to create a side-by-side bar chart to compare the </p>
+<iframe title="Average Hourly Wages for LA County's Creative Occupations" aria-label="Bar Chart" id="datawrapper-chart-ewm6S" src="https://datawrapper.dwcdn.net/ewm6S/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2595" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 <h1>Real People I Would Like to Interview:</h1>
 
