@@ -1,4 +1,4 @@
-# LA's Creative Pulse: Comparing Local and National Trends
+<img width="326" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/6f2ca466-d6f2-477c-9dc1-06b3f15ab383"># LA's Creative Pulse: Comparing Local and National Trends
 [![los-angeles-california-downtown-skyline-dszc.jpg](https://i.postimg.cc/1tpLc90k/los-angeles-california-downtown-skyline-dszc.jpg)](https://postimg.cc/G8m7bn5K)
 <h1>Story Pitch:</h1>
 <p>Creativity knows no boundaries, and in the bustling metropolis of Los Angeles County, a diverse tapestry of creative occupations weaves together to form a vibrant economy. For my final journalism project, I aim to delve into the realm of creative occupations in LA County, utilizing robust datasets sourced from the "Finding Datasets" repository under "Arts and Culture." Are certain creative fields more appealing to specific age groups? How diverse and inclusive is the creative industry in LA County? How does LA County's creative economy compare to national trends? Beyond the data points, this investigation takes us deep into the employment dynamics of LA's creative industries, dissecting the numbers to uncover patterns, trends, and untold stories.</p>
@@ -27,7 +27,7 @@
 <h2>Data Analysis 1</h2>
 <h4>Which creative occupations have the most gender diversity and which have the least gender diversity in LA county? </h4>
 <p>
-  1. First, I highlighted the entire range of my data, including the headers ("Description," "Males", "Females."), from "Occupations_Gender" tab in the LA dataset. I copied these values into a new spreadsheet.
+  1. First, I highlighted the entire range of my data - including the headers ("Description," "Males", "Females.") - from the "Occupations_Gender" tab in the LA dataset. I copied these values into a new spreadsheet called "Data Analysis 1".
 </p>
 <p>2. I calculated the gender diversity ratio for each occupation by dividing the number of females by the total number of workers (males + females). I added this calculation as a new column in my original data. There is one occupation "Radio Operators" which is NULL because there is not an exact number for the number of females (<10) so I will delete this row for the sake of convenience.
 </p>
@@ -42,7 +42,23 @@
 
 <h2>Data Analysis 2</h2>
 <h4>How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
-<p>I currently have two datasets - one for LA county (Occupation_TableLA county.xls) and  and one for the US (Occupation_TableUS.xls). Both of these spreadsheets have a tab called Occupations_Jobs_Earnings that shows the hourly wages for each occupation. To compare LA hourly wages to National hourly wages, I created a pivot table. The values are the hourly wages and the rows are the different creative occupations. The pivot table is in the screenshot below.</p>
+<p>
+  1. First, I highlighted the columns "Description" and "Avg. Hourly Earnings" from the "Occupations_Jobs_Earnings" tab in the LA dataset and also from the US dataset. I copied these values into a new spreadsheet (in different tabs).
+</p>
+<p>
+  2. In a cell next to these values, I calculated the Average Hourly Earning for ALL of the different occupations for the US () and LA County. I copy and pasted these values into a new tab called "Earning Comparison".
+</p>
+<img width="326" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/d7c5afc2-8e2d-47cb-90ff-72b231871b34">
+<p>
+  3. In "Earning Comparison", I also calculated the Percent Difference, using the formula: Percent Difference = ((LA Average - US Average) / US Average) * 100
+</p>
+<img width="355" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/3a506c94-a6d0-4caf-b615-980df3fb7160">
+<h4>For Data Analysis 2, it is clear that for creative occupations, LA County has higher wages than the US on average. The percent difference between the Average US Hourly Earning and Average LA Hourly Earning is approximately 12.78%. This means that LA's average hourly earning is around 12.78% higher than the average hourly earning in the US.</h4>
+
+
+
+
+
 
 <h2>Data Analysis 3</h2>
 <h4>Which creative occupation had the largest growth from 2014 to 2015 in LA and in ths US?</h4>
@@ -50,7 +66,9 @@
 
 <h2>Data Analysis 4</h2>
 <h4>Which creative occupation has the highest hourly salary in LA and in ths US and which had the lowest?</h4>
-<p></p>
+<p>
+  1. First, I highlighted the entire range of my data, including the headers ("Description," "Males", "Females."), from "Occupations_Gender" tab in the LA dataset. I copied these values into a new spreadsheet.
+</p>
 
 
 <h2>Data Analysis 5</h2>
