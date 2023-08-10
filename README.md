@@ -19,7 +19,7 @@
 <p>
 <h4>1. Which creative occupations have the most gender diversity and which have the least gender diversity in LA County? </h4>
 <h4>2. How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
-<h4>3. Which creative occupation had the largest growth from 2014 to 2015 in LA and in ths US?</h4>
+<h4>3. Which creative occupation had the largest growth from 2014 to 2015 in LA and in the US?</h4>
 <h4>4. Which creative occupation has the highest hourly salary in LA and in ths US and which had the lowest?</h4>
 <h4>5. What are the top occupations for each age bracket in the LA? the US?</h4>
 </p>
@@ -49,8 +49,9 @@
   2. In a cell next to these values, I calculated the Average Hourly Earning for ALL of the different occupations for the US () and LA County. I copy and pasted these values into a new tab called "Earning Comparison".
 </p>
 <img width="326" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/d7c5afc2-8e2d-47cb-90ff-72b231871b34">
+<img width="275" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/2fa22bc1-c026-4415-9029-3d308e30b7d3">
 <p>
-  3. In "Earning Comparison", I also calculated the Percent Difference, using the formula: Percent Difference = ((LA Average - US Average) / US Average) * 100
+  3. In "Earning Comparison", I also calculated the Percent Difference, using the formula: Percent Difference = ((LA Average - US Average) / US Average) * 100. However, since I formatted this value to "Percent" in Format --> Numbers --> Percent, so I did not multiply by 100 (shown in screenshot).
 </p>
 <img width="355" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/3a506c94-a6d0-4caf-b615-980df3fb7160">
 <h4>For Data Analysis 2, it is clear that for creative occupations, LA County has higher wages than the US on average. The percent difference between the Average US Hourly Earning and Average LA Hourly Earning is approximately 12.78%. This means that LA's average hourly earning is around 12.78% higher than the average hourly earning in the US.</h4>
