@@ -51,7 +51,7 @@
 </p>
 <img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/88304fe6-1efe-444b-8781-2c4277881bae">
 <img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/8c610752-564c-4578-b12e-ef224f1dea8a">
-<h4>So to answer the question, Makeup Artists (Theatrical and Performance), Dancers, Choreographers, Tailors/Dressmakers/Custom Sewers, and Floral Designers are the most iverse creative occupations. The least gender diverse creative occupations are Electronic Home Entertainment Equipment Installers and Repairers, Musical Instrument Repairers and Tuners, Watch Repairers, Cabinetmakers and Bench Carpenters, and Camera and Photographic Equipment Repairers.</h4>
+<h4>So to answer the question, Makeup Artists (Theatrical and Performance), Dancers, Choreographers, Tailors/Dressmakers/Custom Sewers, and Floral Designers are the most diverse creative occupations. The least gender diverse creative occupations are Electronic Home Entertainment Equipment Installers and Repairers, Musical Instrument Repairers and Tuners, Watch Repairers, Cabinetmakers and Bench Carpenters, and Camera and Photographic Equipment Repairers.</h4>
 
 
 <h2>Data Analysis 2</h2>
@@ -116,7 +116,7 @@
 </p>
 <img width="72" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/9519e5f5-34a9-4168-8855-35628337fe1b">
 <img width="78" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/211da091-7fec-4282-a7a0-35ae0e594268">
-<h4>From the two tables I made, it seems that most creative workers are in the age ranges 25-34 and Age 35-44. Some interesting standouts in LA are that most Radio Operators were in the 14-18 age range and most Costume Attendants were 65+. Nationally, however, age ranges 25-34 and Age 35-44 were the only ranges that had the max number of workers (there were no age ranges that were standouts nationally).</h4>
+<h4>From the two tables I made, it seems that most creative workers are in the age ranges 25-34 and Age 35-44. Some interesting standouts in LA County are that most Radio Operators were in the 14-18 age range and most Costume Attendants were 65+. Nationally, however, age ranges 25-34 and Age 35-44 were the only ranges that had the max number of workers (there were no age ranges that were standouts nationally).</h4>
 
 <h1>Additional Sources:</h1>
 <h2>Creative Economy Research - National Endowment for the Arts (NEA):</h2>
