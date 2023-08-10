@@ -21,7 +21,7 @@
 <h4>2. How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
 <h4>3. Which creative occupation had the largest growth from 2014 to 2015 in LA and in the US?</h4>
 <h4>4. Which creative occupation has the highest hourly salary in LA and in ths US and which had the lowest?</h4>
-<h4>5. What are the top occupations for each age bracket in the LA? the US?</h4>
+<h4>5. Which occupation is the largest (has the maximum number of people working in it) for each age bracket in LA? the US?</h4>
 </p>
 
 <h2>Data Analysis 1</h2>
@@ -102,7 +102,7 @@
 </p>
 <img width="72" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/9519e5f5-34a9-4168-8855-35628337fe1b">
 <img width="78" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/211da091-7fec-4282-a7a0-35ae0e594268">
-<h4>From the two tables I made, it seems that most creative workers are in the age ranges 25-34 and Age 35-44. Some interesting standouts in LA are that most Radio Operators were in the 14-18 age range and most Costume Attendants were 65+. Nationally, however, age ranges 25-34 and Age 35-44 were the only ranges that had the max number of workers.</h4>
+<h4>From the two tables I made, it seems that most creative workers are in the age ranges 25-34 and Age 35-44. Some interesting standouts in LA are that most Radio Operators were in the 14-18 age range and most Costume Attendants were 65+. Nationally, however, age ranges 25-34 and Age 35-44 were the only ranges that had the max number of workers (there were no age ranges that were standouts nationally).</h4>
 
 <h1>Additional Sources:</h1>
 <h2>Creative Economy Research - National Endowment for the Arts (NEA):</h2>
