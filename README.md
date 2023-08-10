@@ -7,7 +7,8 @@
 <p>For my data visualization, I used Datawrapper to create two bar charts showing the average wages for creative occupations in LA County and the US respectively. </p>
 
 [![ewm6-S-average-hourly-wages-for-la-county-s-creative-occupations.png](https://i.postimg.cc/QdLmYBft/ewm6-S-average-hourly-wages-for-la-county-s-creative-occupations.png)](https://postimg.cc/JGqjGhVV)
-<h4>https://datawrapper.dwcdn.net/CWXlk/1/ </h4> 
+<h4>https://datawrapper.dwcdn.net/CWXlk/1/ </h4>
+
 [![CWXlk-average-hourly-wages-for-us-s-creative-occupations.png](https://i.postimg.cc/QM38QB3J/CWXlk-average-hourly-wages-for-us-s-creative-occupations.png)](https://postimg.cc/gxgbd2rx)
 <h4> https://datawrapper.dwcdn.net/ewm6S/1/ </h4> 
 
