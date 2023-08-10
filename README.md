@@ -87,33 +87,22 @@
 <img width="733" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/ca5bad6c-fff4-4855-a806-75aa14d3f112">
 <h4>From the screenshots, I can conclude that Marketing Managers seem to be the highest paying creative occupation in BOTH the US as a whole and in LA County. </h4>
 
-
-
-
-
-
-
-
-
-
-
 <h2>Data Analysis 5</h2>
-<h4>What are the top occupations for each age bracket in LA? the US?</h4>
+<h4>Which occupation is the largest (has the maximum number of people working in it) for each age bracket in LA? the US?</h4>
 <p>
-  1. First, I created a new spreadsheet called "Data Analysis 5 Journ 124". I copied the "Occupations_Age" tab from the LA County dataset and the US dataset into this new spreadsheet and renamed them "Occupations_Age_LA" and "Occupations_Age_US" respectively.
-  2. I added a new column at the end of my spreadsheet called "Max Age Group" and used the formula =MAX(C2:J2) in cell K2. This formula finds the maximum value (which represents the highest count) in the Age group columns for each row. I dragged this down the K column.
+  1. The first step I did was to copy the columns Description, Age 14-18,	Age 19-21,	Age 22-24,	Age 25-34,	Age 35-44,	Age 45-54,	Age 55-64, and Age 65+ from the tab "Occupations_Age" from the US table. I copy and pasted these into my new spreadsheet called "Data Analysis 5".
 </p>
-<img width="694" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/103a9d3e-7272-4d77-a34d-cdd1531045f2">
+<img width="688" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/fc1bcc28-09af-45c4-8b7b-9d9623c3e9c2">
 <p>
-  3. In another sheet called "LA Pivot Table", I created a table where I listed the top occupations for each age group. I used columns A through I for Age Group, 14-18, 19-21, etc., up to Age 65+.
+  2. On the right side of this tab, I created a new table. I copied and pasted the "Description" column and then created a new column on the right called "Age Group with Max" which contains the age group in which the corresponding occupation has the largest number of people. I used the formula =INDEX($B$1:$I$1, 1, MATCH(MAX(B2:I2), B2:I2, 0)) and then dragged down the column. (in screenshot below)
 </p>
-<img width="559" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/d55759fc-4fb2-4acb-a1c5-bc68d412fd73">
+<img width="883" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/fa78df90-0350-42bb-9c77-88139c17c4c6">
 <p>
-  4. In the cell corresponding to each age group and occupation column, I used a VLOOKUP function to retrieve the occupation that matches the maximum value for that age group (). I included a screenshot below.
+  3. My new table displays each creative occupation along with the corresponding age group that has the maximum number of people working in it. I repeated steps 1 and 2 for the "Occupations_Age" tab from the LA County Table.
 </p>
-<p>
-  5. I copied the formula in step 4 for each age group column (19-21, 22-24, etc.), adjusting the column references accordingly.
-  6. I repeated the steps 2-5 for the Occupations_Age_US tab.</p>
+<img width="72" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/9519e5f5-34a9-4168-8855-35628337fe1b">
+<img width="78" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/211da091-7fec-4282-a7a0-35ae0e594268">
+<h4>From the two tables I made, it seems that most creative workers are in the age ranges 25-34 and Age 35-44. Some interesting standouts in LA are that most Radio Operators were in the 14-18 age range and most Costume Attendants were 65+. Nationally, however, age ranges 25-34 and Age 35-44 were the only ranges that had the max number of workers.</h4>
 
 <h1>Additional Sources:</h1>
 <h2>Creative Economy Research - National Endowment for the Arts (NEA):</h2>
