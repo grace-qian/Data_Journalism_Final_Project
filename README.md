@@ -56,13 +56,25 @@
 <img width="355" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/3a506c94-a6d0-4caf-b615-980df3fb7160">
 <h4>For Data Analysis 2, it is clear that for creative occupations, LA County has higher wages than the US on average. The percent difference between the Average US Hourly Earning and Average LA Hourly Earning is approximately 12.78%. This means that LA's average hourly earning is around 12.78% higher than the average hourly earning in the US.</h4>
 
-
-
-
-
-
 <h2>Data Analysis 3</h2>
-<h4>Which creative occupation had the largest growth from 2014 to 2015 in LA and in ths US?</h4>
+<h4>Which creative occupation had the largest growth from 2014 to 2015 in LA and in the US?</h4>
+<p>
+  1. First, I highlighted the columns "Description", "2015 Jobs",	"2014 Jobs", "2014 - 2015 % Change", "2014 - 2015 Change" from the "Occupations_Jobs_Earnings" tab in the LA dataset and also from the US dataset. I copied these values into a new spreadsheet (in different tabs).
+</p>
+<img width="418" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/26bf7343-f45a-4119-8654-9190d9202645">
+<p>
+  2. Because I want to find growth, I will filter for the occupations in which the number of jobs in 2014 is less than 2015. I created a helper column called 'Growth - Y/N?' that evaluates to 'Y' if the number of jobs in 2015 is greater than 2014, and I used this to filter the tab.
+</p>
+<img width="446" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/278d9e33-f539-48f5-8b6f-9d399d569696">
+<p>
+  3. Next, I sorted the data in descending order by "2014 - 2015 % Change". I highlighted the occupation in the first row. I repeated this for both the "LA" tab and the "US" tab (final results shown below).
+</p>
+<img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/df5a75c6-b902-4cea-86d6-ac8595e27a45">
+<img width="429" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/b0b2f258-bab3-438e-b108-cd9983ac52a1">
+<h4>From Data Analysis 3, it is clear that for Theatrical and Performance Makeup Artists had the largest growth from 2014 to 2015 in both LA County and in the US as a whole. What is interesting to note though is that in the US, Actors, Multimedia Artists and Animators, Photographers, and Film and Video Editors experienced the most growth from 2014 to 2015 (after the makeup artists); meanwhile, Photographers, Film and Video Editors, Multimedia Artists and Animators, and Writers and Authors had the most growth from 2014 to 2015 (after the makeup artists).</h4>
+
+
+
 
 
 <h2>Data Analysis 4</h2>
