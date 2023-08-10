@@ -1,6 +1,6 @@
 # LA's Creative Pulse: Comparing Local and National Trends
 ## by Grace Qian
-[![Cover-Image-Copy.png](https://i.postimg.cc/kM15qKSj/Cover-Image-Copy.png)](https://postimg.cc/3WGhZynp)
+[![Cover-Image-Copy.png](https://i.postimg.cc/HnX8PtWs/Cover-Image-Copy.png)](https://postimg.cc/T52PKgWZ)
 <h1>Story Pitch:</h1>
 <p>Creativity knows no boundaries, and in the bustling metropolis of Los Angeles County, a diverse tapestry of creative occupations weaves together to form a vibrant economy. For my final journalism project, I aim to delve into the realm of creative occupations in LA County, utilizing robust datasets sourced from the "Finding Datasets" repository under "Arts and Culture." Are certain creative fields more appealing to specific age groups? How diverse and inclusive is the creative industry in LA County? How does LA County's creative economy compare to national trends? Beyond the data points, this investigation takes us deep into the employment dynamics of LA's creative industries, dissecting the numbers to uncover patterns, trends, and untold stories.</p>
 
