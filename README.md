@@ -4,8 +4,10 @@
 <p>Creativity knows no boundaries, and in the bustling metropolis of Los Angeles County, a diverse tapestry of creative occupations weaves together to form a vibrant economy. For my final journalism project, I aim to delve into the realm of creative occupations in LA County, utilizing robust datasets sourced from the "Finding Datasets" repository under "Arts and Culture." Are certain creative fields more appealing to specific age groups? How diverse and inclusive is the creative industry in LA County? How does LA County's creative economy compare to national trends? Beyond the data points, this investigation takes us deep into the employment dynamics of LA's creative industries, dissecting the numbers to uncover patterns, trends, and untold stories.</p>
 
 <h1>Data Visualization:</h1>
-<p>For my data visualization, I used Datawrapper to create a side-by-side bar chart to compare the </p>
-<iframe title="Average Hourly Wages for LA County's Creative Occupations" aria-label="Bar Chart" id="datawrapper-chart-ewm6S" src="https://datawrapper.dwcdn.net/ewm6S/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2595" data-external="1"></iframe>
+<p>For my data visualization, I used Datawrapper to create two bar charts. </p>
+<iframe title="Average Hourly Wages for LA County's Creative Occupations" aria-label="Bar Chart" id="datawrapper-chart-ewm6S" src="https://datawrapper.dwcdn.net/ewm6S/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="2595" data-external="1"></iframe>
+
+
 
 <h1>Real People I Would Like to Interview:</h1>
 
