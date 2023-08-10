@@ -34,7 +34,7 @@
 <p>
   3. I used a filter "Sort sheet Z-A" to sort the sheet in descending order and selected the first 5 to select the occupations at the top of the sorted list will have the highest gender diversity. The occupations at the bottom of the sorted list will have the least gender diversity.
 </p>
-![image](https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/3d77252e-23d6-457a-b034-5b5a51099fb8)
+<img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/88304fe6-1efe-444b-8781-2c4277881bae">
 <img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/8c610752-564c-4578-b12e-ef224f1dea8a">
 <p>To answer the question, Makeup Artists (Theatrical and Performance), Dancers, Choreographers, Tailors/Dressmakers/Custom Sewers, and Floral Designers are the most iverse creative occupations. The least gender diverse creative occupations are Camera and Photographic Equipment Repairers, 
 Cabinetmakers and Bench Carpenters, Musical Instrument Repairers and Tuners, Watch Repairers, and Electronic Home Entertainment Equipment Installers and Repairers.</p>
