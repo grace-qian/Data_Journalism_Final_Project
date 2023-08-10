@@ -17,7 +17,7 @@
 <h1>Data Analyses:</h1>
 <p>My data is souced from CVSuite, a product of the Western States Arts Federation (WESTAF) and I will be using two datasets from the Los Angeles Arts Datathon. I have 5 questions that I will investigate and answer using data analysis techniques in Google Sheets. </p>
 <p>
-<h4>1. Which creative occupations have the most gender diversity and which have the least gender diversity? </h4>
+<h4>1. Which creative occupations have the most gender diversity and which have the least gender diversity in LA County? </h4>
 <h4>2. How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
 <h4>3. Which creative occupation had the largest growth from 2014 to 2015 in LA and in ths US?</h4>
 <h4>4. Which creative occupation has the highest hourly salary in LA and in ths US and which had the lowest?</h4>
@@ -25,10 +25,20 @@
 </p>
 
 <h2>Data Analysis 1</h2>
-<h4>Which creative occupations have the most gender diversity and which have the least gender diversity? </h4>
+<h4>Which creative occupations have the most gender diversity and which have the least gender diversity in LA county? </h4>
 <p>
-  
+  1. First, I highlighted the entire range of my data, including the headers ("Description," "Males", "Females."), from "Occupations_Gender" tab in the LA dataset. I copied these values into a new spreadsheet.
+  2. I calculated the gender diversity ratio for each occupation by dividing the number of females by the total number of workers (males + females). I added this calculation as a new column in my original data. There is one occupation "Radio Operators" which is NULL because there is not an exact number for the number of females (<10) so I will delete this row for the sake of convenience.
 </p>
+<img width="310" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/74631f38-4c03-42ad-9f00-32de575d7322">
+<p>
+  3. I used a filter "Sort sheet Z-A" to sort the sheet in descending order and selected the first 5 to select the occupations at the top of the sorted list will have the highest gender diversity. The occupations at the bottom of the sorted list will have the least gender diversity.
+</p>
+![image](https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/3d77252e-23d6-457a-b034-5b5a51099fb8)
+<img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/8c610752-564c-4578-b12e-ef224f1dea8a">
+<p>To answer the question, Makeup Artists (Theatrical and Performance), Dancers, Choreographers, Tailors/Dressmakers/Custom Sewers, and Floral Designers are the most iverse creative occupations. The least gender diverse creative occupations are Camera and Photographic Equipment Repairers, 
+Cabinetmakers and Bench Carpenters, Musical Instrument Repairers and Tuners, Watch Repairers, and Electronic Home Entertainment Equipment Installers and Repairers.</p>
+
 
 <h2>Data Analysis 2</h2>
 <h4>How do the earnings in LA County's creative fields fare against the broader US trends?</h4>
@@ -53,6 +63,7 @@
 <p>
   3. In another sheet called "LA Pivot Table", I created a table where I listed the top occupations for each age group. I used columns A through I for Age Group, 14-18, 19-21, etc., up to Age 65+.
 </p>
+<img width="559" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/d55759fc-4fb2-4acb-a1c5-bc68d412fd73">
 <p>
   4. In the cell corresponding to each age group and occupation column, I used a VLOOKUP function to retrieve the occupation that matches the maximum value for that age group (). I included a screenshot below.
 </p>
