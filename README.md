@@ -115,8 +115,13 @@
   5. I copied the formula in step 4 for each age group column (19-21, 22-24, etc.), adjusting the column references accordingly.
   6. I repeated the steps 2-5 for the Occupations_Age_US tab.</p>
 
-
-
+<h1>Additional Sources:</h1>
+<h2>Creative Economy Research - National Endowment for the Arts (NEA):</h2>
+<h4>Link: https://www.arts.gov/</h4>
+<p>This source accesses research and reports on the creative economy at a national level, offering a broader context for understanding creative art trends across the US. NEA compiles and publishes comprehensive data on various aspects of the creative economy, including employment, earnings, and contributions to GDP. Also, NEA's research often delves into regional nuances and variations within the creative economy. </p>
+<h2>Art Industry Reports - Los Angeles County Economic Development Corporation (LAEDC):</h2>
+<h4>Link: https://laedc.org/reports/entertainment-arts/</h4>
+<p>These reports provide a localized lens through which I can analyze creative art trends by delving into the intricate web of employment, economic impact, and contributions of the art and creative sector within the county. The LAEDC's expertise in economic research, particularly in relation to the arts, ensures that the insights derived from their reports are both current and well-informed. </p>
 
 
 
