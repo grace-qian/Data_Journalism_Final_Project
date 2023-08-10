@@ -75,13 +75,26 @@
 
 
 
-
-
 <h2>Data Analysis 4</h2>
-<h4>Which creative occupation has the highest hourly salary in LA and in ths US and which had the lowest?</h4>
+<h4>Which creative occupation has the highest hourly salary in LA and in the US and which had the lowest?</h4>
 <p>
-  1. First, I highlighted the entire range of my data, including the headers ("Description," "Males", "Females."), from "Occupations_Gender" tab in the LA dataset. I copied these values into a new spreadsheet.
+  1. I first created a new spreadsheet called "Data Analysis 4". I copied the "Occupations_Jobs_Earnings" tabs from the US and LA datasets to this new spreadsheet and renamed the two tabs accordinglyl.
 </p>
+<p>
+  2. Next I used "Sort Sheet Z to A" on the Avg. Hourly Earnings column to find the highest paying creative occupation (highlighted in the screenshots).
+</p>
+<img width="727" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/33c5e233-2384-4986-92fe-202503893baf">
+<img width="733" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/ca5bad6c-fff4-4855-a806-75aa14d3f112">
+<h4>From the screenshots, I can conclude that Marketing Managers seem to be the highest paying creative occupation in BOTH the US as a whole and in LA County. </h4>
+
+
+
+
+
+
+
+
+
 
 
 <h2>Data Analysis 5</h2>
