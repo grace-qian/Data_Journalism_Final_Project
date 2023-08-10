@@ -46,8 +46,21 @@
 <h2>Data Analysis 5</h2>
 <h4>What are the top occupations for each age bracket in LA? the US?</h4>
 <p>
-  To find the top 5 occupations for each age bracket, I used 
+  1. First, I created a new spreadsheet called "Data Analysis 5 Journ 124". I copied the "Occupations_Age" tab from the LA County dataset and the US dataset into this new spreadsheet and renamed them "Occupations_Age_LA" and "Occupations_Age_US" respectively.
+  2. I added a new column at the end of my spreadsheet called "Max Age Group" and used the formula =MAX(C2:J2) in cell K2. This formula finds the maximum value (which represents the highest count) in the Age group columns for each row. I dragged this down the K column.
 </p>
+<img width="694" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/103a9d3e-7272-4d77-a34d-cdd1531045f2">
+<p>
+  3. In another sheet called "LA Pivot Table", I created a table where I listed the top occupations for each age group. I used columns A through I for Age Group, 14-18, 19-21, etc., up to Age 65+.
+</p>
+<p>
+  4. In the cell corresponding to each age group and occupation column, I used a VLOOKUP function to retrieve the occupation that matches the maximum value for that age group (). I included a screenshot below.
+</p>
+<p>
+  5. I copied the formula in step 4 for each age group column (19-21, 22-24, etc.), adjusting the column references accordingly.
+  6. I repeated the steps 2-5 for the Occupations_Age_US tab.</p>
+
+
 
 
 
