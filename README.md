@@ -6,11 +6,10 @@
 
 <h1>Data Visualizations:</h1>
 <p>For my data visualizations, I used Datawrapper to create two bar charts showing the average wages for creative occupations in LA County and the US respectively. Click the links below to see the full image of each visualization.</p>
-
-[![ewm6-S-average-hourly-wages-for-la-county-s-creative-occupations.png](https://i.postimg.cc/QdLmYBft/ewm6-S-average-hourly-wages-for-la-county-s-creative-occupations.png)](https://postimg.cc/JGqjGhVV)
+<div style="min-height:2595px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ewm6S/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ewm6S/full.png" alt="As the bars elegantly cascade in descending order, the chart provides a visual journey through LA County's creative spectrum, revealing which occupations command the highest average hourly wages. " /></noscript></div>
 <h4>https://datawrapper.dwcdn.net/CWXlk/1/ </h4>
 
-[![CWXlk-average-hourly-wages-for-us-s-creative-occupations.png](https://i.postimg.cc/QM38QB3J/CWXlk-average-hourly-wages-for-us-s-creative-occupations.png)](https://postimg.cc/gxgbd2rx)
+<div style="min-height:2569px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/CWXlk/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/CWXlk/full.png" alt="As the bars elegantly cascade in descending order, the chart provides a visual journey through US's creative spectrum, revealing which occupations command the highest average hourly wages. " /></noscript></div>
 <h4> https://datawrapper.dwcdn.net/ewm6S/1/ </h4> 
 
 <h1>Real People I Would Like to Interview:</h1>
