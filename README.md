@@ -28,7 +28,8 @@
 <h4>Which creative occupations have the most gender diversity and which have the least gender diversity in LA county? </h4>
 <p>
   1. First, I highlighted the entire range of my data, including the headers ("Description," "Males", "Females."), from "Occupations_Gender" tab in the LA dataset. I copied these values into a new spreadsheet.
-  2. I calculated the gender diversity ratio for each occupation by dividing the number of females by the total number of workers (males + females). I added this calculation as a new column in my original data. There is one occupation "Radio Operators" which is NULL because there is not an exact number for the number of females (<10) so I will delete this row for the sake of convenience.
+</p>
+<p>2. I calculated the gender diversity ratio for each occupation by dividing the number of females by the total number of workers (males + females). I added this calculation as a new column in my original data. There is one occupation "Radio Operators" which is NULL because there is not an exact number for the number of females (<10) so I will delete this row for the sake of convenience.
 </p>
 <img width="310" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/74631f38-4c03-42ad-9f00-32de575d7322">
 <p>
@@ -36,8 +37,7 @@
 </p>
 <img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/88304fe6-1efe-444b-8781-2c4277881bae">
 <img width="433" alt="image" src="https://github.com/grace-qian/Data_Journalism_Final_Project/assets/108700172/8c610752-564c-4578-b12e-ef224f1dea8a">
-<p>To answer the question, Makeup Artists (Theatrical and Performance), Dancers, Choreographers, Tailors/Dressmakers/Custom Sewers, and Floral Designers are the most iverse creative occupations. The least gender diverse creative occupations are Camera and Photographic Equipment Repairers, 
-Cabinetmakers and Bench Carpenters, Musical Instrument Repairers and Tuners, Watch Repairers, and Electronic Home Entertainment Equipment Installers and Repairers.</p>
+<h4>So to answer the question, Makeup Artists (Theatrical and Performance), Dancers, Choreographers, Tailors/Dressmakers/Custom Sewers, and Floral Designers are the most iverse creative occupations. The least gender diverse creative occupations are Electronic Home Entertainment Equipment Installers and Repairers, Musical Instrument Repairers and Tuners, Watch Repairers, Cabinetmakers and Bench Carpenters, and Camera and Photographic Equipment Repairers.</h4>
 
 
 <h2>Data Analysis 2</h2>
