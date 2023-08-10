@@ -6,6 +6,8 @@
 <h1>Data Visualization:</h1>
 <p>For my data visualization, I used Datawrapper to create two bar charts. </p>
 <iframe title="Average Hourly Wages for LA County's Creative Occupations" aria-label="Bar Chart" id="datawrapper-chart-ewm6S" src="https://datawrapper.dwcdn.net/ewm6S/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="2595" data-external="1"></iframe>
+<iframe title="Average Hourly Wages for US's Creative Occupations" aria-label="Bar Chart" id="datawrapper-chart-CWXlk" src="https://datawrapper.dwcdn.net/CWXlk/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="2569" data-external="1"></iframe>
+
 
 
 
